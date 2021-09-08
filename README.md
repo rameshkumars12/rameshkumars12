@@ -1,6 +1,6 @@
 
 
-### Hi I'am Ramesh Kumar
+### Hi I'am Ramesh Kumar, and I'm an data science enthusiast.
 
 #### ---The Only Limit Is Your Imagination
 
