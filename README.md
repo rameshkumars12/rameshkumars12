@@ -1,4 +1,4 @@
- # Hi there! 
+ # Hi there 👋
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshkumars12" alt="rameshkumars12" /> </p>
 
  
@@ -13,10 +13,12 @@
 
 
 #### ABOUT ME :sunglasses:
+
+  - :rocket: Passionate in Learning New Technologies.
   
-  - :rocket: Passionate in Learning New Technology
+  - :sweat_smile: Believer in Self Education.
   
-  - :sweat_smile: Believer in Self Education
-  
-  - :grin: Self Motivated Person
+  - :grin: Self Motivated Person.
+
+  - :wink: Learning & Living
 
