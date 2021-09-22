@@ -4,7 +4,17 @@
  
  ### I'm [Ramesh Kumar](https://github.com/rameshkumars12/) Data Science and Machine Learning Enthusiast
  
+<p>    --- The Only Limit is Your Imagination. </p>
+ 
  
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rameshkumars12&show_icons=true&hide_border=true">
 
+
+#### ABOUT ME :sunglasses:
+  
+  - :rocket: Passionate in Learning New Technology
+  
+  - :sweat_smile: Believer in Self Education
+  
+  - :grin: Self Motivated Person
 
