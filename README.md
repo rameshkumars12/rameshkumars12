@@ -2,7 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshkumars12" alt="rameshkumars12" /> </p>
 
  
- ### I'm [Ramesh Kumar](https://github.com/rameshkumars12/) Data Science and Machine Learning Enthusiast
+ ### I'm [Ramesh Kumar](https://github.com/rameshkumars12/) Data Analyst and Machine Learning Enthusiast
  
 <p>    --- The Only Limit is Your Imagination. </p>
  
