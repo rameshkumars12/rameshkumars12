@@ -13,11 +13,11 @@
 
 #### ABOUT ME :sunglasses:
 
-  - :rocket: Passionate in Learning New Technologies.
+  - :rocket: Tech enthusiast
   
-  - :sweat_smile: Believer in Self Education.
+  - :sweat_smile: Motivated achiever
   
-  - :grin: Self Motivated Person.
+  - :grin: Collaborative spirit
 
-  - :wink: Learning & Living
+  - :wink: Adaptable and resilient
 
