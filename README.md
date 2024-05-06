@@ -1,8 +1,7 @@
- # Hi there 👋
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshkumars12" alt="rameshkumars12" /> </p>
 
  
- ### I'm [Ramesh Kumar](https://github.com/rameshkumars12/) Data Analyst and Machine Learning Enthusiast
+ ### 👋 Hi there!,I'm [Ramesh Kumar](https://github.com/rameshkumars12/) a passionate Fullstack Developer with a keen interest in Data Science, particularly in the realms of Machine Learning and Deep Learning. While I've honed my skills in Angular, Java, PL/SQL, and Git, I'm now embarking on an exciting journey to explore the fascinating world of data.
  
 <p>    --- The Only Limit is Your Imagination. </p>
  
