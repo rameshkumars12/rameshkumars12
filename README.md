@@ -3,7 +3,7 @@
  
  ### 👋 Hi there!
  
-### I'm [Ramesh Kumar](https://github.com/rameshkumars12/) Passionate Software Developer with 2+ years of experience in Core Java, J2EE, PL/SQL, and Git. And expertise in Machine Learning and Data Science.
+### I'm [Ramesh Kumar](https://github.com/rameshkumars12/) Passionate Software Developer with 2+ years of experience in Core Java,Spring Boot,Oracle Plsql Developer with strong knowledge in Banking domains like Lending, Limits, Collateral and developing REST API's, Business functionalities in Plsql. And expertise in Machine Learning and Data Science.
 <p>    --- The Only Limit is Your Imagination. </p>
  
  
